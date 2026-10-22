@@ -12,3 +12,5 @@ This is a simple command-line program that allows users to add tasks to a list a
 3. Navigate to the folder where this file is saved.
 4. Run the command: `python todo.py`
 5. Follow the on-screen menu to manage your tasks.
+
+## Reflection
