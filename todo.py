@@ -22,7 +22,7 @@ while True:
             for i, task in enumerate(tasks, 1):
                 print(f"{i}. {task}")
     elif choice == '3':
-        print("Goodbye!")
+        print("Goodbye!!! Your task have been saved for this session brother.")
         break
     else:
         print("Invalid choice. Please try again.")
